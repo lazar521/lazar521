@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lazar Vukosavljevic</h1>
+<h1 align="center">Hi 👋, I'm Lazar</h1>
 <h3 align="center">A passionate software engineer from Belgrade</h3>
 
 - 🔭 I’m currently a [software engineering student](https://www.etf.bg.ac.rs/en)
